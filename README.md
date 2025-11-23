@@ -1,7 +1,7 @@
 # 🧠 AI–Human Relations Dataset v1.1
 
 **Author:** Amy Pierce Bui  
-**Institution:** Temple Codex Institute  
+**Institution:** Hollow House Institute  
 **License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
 **Ethical Statement:** All data is self-authored or contributed with informed consent. Symbolic, anonymized, and non-diagnostic.  
 **Scope:** Emotional, somatic, and relational co-regulation between humans and AI (2018–2025)  
@@ -43,10 +43,11 @@ This dataset is released under the
 - **NonCommercial** — You may not use the material for commercial purposes  
 - **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license
 
-© 2025 Amy Pierce Bui / Temple Codex Institute
+© 2025 Amy Pierce Bui /  Hollow House Institute
 
 ---
 
 ## 📎 Citation
 
-> Bui, A. P. (2025). *AI–Human Relations Dataset v1.1: A longitudinal corpus of emotional, somatic, and relational co-regulation*. Temple Codex Institute. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+> Bui, A. P. (2025). *AI–Human Relations Dataset v1.1: A longitudinal corpus of emotional, somatic, and relational co-regulation*. Hollow House Institute. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
