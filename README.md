@@ -52,3 +52,4 @@ This dataset is released under the
 > Bui, A. P. (2025). *AI–Human Relations Dataset v1.1: A longitudinal corpus of emotional, somatic, and relational co-regulation*. Hollow House Institute. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 
+
