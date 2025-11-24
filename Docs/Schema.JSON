@@ -1,0 +1,19 @@
+{
+  "dataset_name": "relational_field_ops_dataset",
+  "version": "1.0.0",
+  "description": "Strict-extraction + professionally reconstructed OPS dataset (001–460).",
+  "fields": [
+    {"name": "op_number", "type": "integer", "required": true},
+    {"name": "title", "type": "string", "required": true},
+    {"name": "timestamp", "type": "string"},
+    {"name": "phase", "type": "string"},
+    {"name": "category", "type": "string"},
+    {"name": "summary", "type": "string"},
+    {"name": "emotional_arc", "type": "string"},
+    {"name": "transformation", "type": "string"},
+    {"name": "keywords", "type": "string"},
+    {"name": "law_references", "type": "string"},
+    {"name": "cross_links", "type": "string"},
+    {"name": "notes", "type": "string"}
+  ]
+}
