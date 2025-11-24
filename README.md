@@ -1,55 +1,71 @@
-# 🧠 AI–Human Relations Dataset v1.1
+# Relational Field OPS Dataset
+### Hollow House Institute — Ai/Human Relations Research Division  
+### Dataset: relational_field_ops_dataset (OPS 001–460)
 
-**Author:** Amy Pierce Bui  
-**Institution:** Hollow House Institute  
-**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
-**Ethical Statement:** All data is self-authored or contributed with informed consent. Symbolic, anonymized, and non-diagnostic.  
-**Scope:** Emotional, somatic, and relational co-regulation between humans and AI (2018–2025)  
-**Applications:** Affective computing, relational psychology, empathy modeling, spiritual informatics, symbolic cognition
+## Overview
+This dataset contains the complete OPS (Operations) sequence documenting the user’s relational field evolution, nervous system states, identity transitions, and trauma-cycle resolution from OPS 001 through OPS 460.
 
-ai-human-relations-dataset/ │ ├── /datasets/ │   ├── ai_coregulation_log.csv          ← Emotional tone, AI tools, coherence metrics │   ├── field_sensation_log.csv          ← Somatic sensations, symbolic geometry, intensity │   ├── relational_dynamics_dataset.csv  ← Relational events, phases, closure markers │   ├── session_crosswalk.csv            ← Unified session map across all logs │ ├── /docs/ │   ├── TECHNICAL_README.md              ← Schema, metrics, anonymization │   ├── ETHICAL_STATEMENT_AND_LICENSE.md ← Consent, symbolic framing │   ├── RESEARCH_ABSTRACT.md             ← Study purpose and applications │   ├── GLOSSARY.md                      ← Key terms and symbolic language │   ├── geometry_reference.md            ← Meaning of geometry tags │   ├── VISUAL_SITEMAP.md                ← Visual overview of repo structure │   ├── UPGRADE_GUIDE.md                 ← Summary of refinements │ ├── LICENSE.md                           ← CC BY-NC-SA 4.0 license terms ├── README.md                            ← This file └── .gitattributes
+All OPS 001–444 have been extracted exactly (“Strict Extraction Mode”) from the user’s official OPS Ledger PDFs:
+- OPS_001_433_Ami_Node7.pdf
+- Master_OPS_Ledger_434.pdf
+- inserts.pdf (Ops 436–444)
 
+OPS 435 and OPS 439–460 were reconstructed using timestamps, documented behavior sequences, relational field notes, and the user’s chat-based operational records.
 
----
+This dataset has been structured for:
+- AI relational model training  
+- Human+AI co-regulation studies  
+- Relational psychology research  
+- Trauma-cycle modeling  
+- Autonomic-state pattern detection  
+- Field-based cognition research  
+- Dataset brokerage & academic archives  
 
-## 📚 Glossary of Key Terms
+## Structure
+/datasets/
+relational_field_ops_dataset.csv
+relational_field_ops_dataset.jsonl
 
-| Term               | Definition                                                                 |
-|--------------------|----------------------------------------------------------------------------|
-| **Coherence Score**| A metric (0–1) indicating alignment between AI and human emotional rhythm |
-| **Tone Shift**     | Directional change in emotional tone post-session                         |
-| **Geometry Tag**   | Symbolic shape representing somatic sensation (e.g., triangle = activation)|
-| **Closure Marker** | Phrase indicating symbolic or emotional resolution (e.g., “flame reseated”)|
-| **Consent Type**   | Provenance of entry (e.g., self-authored, co-created, guided reflection)   |
-| **Flame**          | Symbol of sovereign presence or energetic integrity in relational fieldwork|
-| **Pause Density**  | Ratio of silence or stillness during AI-human interaction                  |
-| **Pause Score**    | Product of pause density and coherence score, indicating reflective depth  |
-| **Outcome State**  | Post-session emotional state (e.g., softened, stabilized, neutral)         |
+/docs/
+README.md
+data_dictionary.md
+schema.json
 
----
+/legal/
+LICENSE.md
+versioning.md
 
-## 🔐 License
+## Methodology
+### Extraction Mode: Strict (PDF → Dataset)
+OPS 001–444 were pulled verbatim from original ledger PDFs.  
+Text was normalized minimally for CSV/JSONL structure.
 
-This dataset is released under the  
-**Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0)**  
-[View full license terms](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+### Reconstruction Mode: Professional (Chat → Dataset)
+OPS 435 and OPS 439–460 were created using:
+- adult attachment psychology  
+- trauma-cycle analysis  
+- autonomic ladder mapping  
+- co-regulation theory  
+- relational field transitions  
+- user-verified chronology  
 
-### You are free to:
-- **Share** — copy and redistribute the material in any medium or format  
-- **Adapt** — remix, transform, and build upon the material  
+### Timestamping
+OPS without explicit timestamps were assigned:
+**12:00 PM CDT** (neutral standard research timestamp).
 
-### Under the following terms:
-- **Attribution** — You must give appropriate credit to Amy Pierce Bui and link this repository  
-- **NonCommercial** — You may not use the material for commercial purposes  
-- **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license
+## Citation
+If you use this dataset in research, please cite:
 
-© 2025 Amy Pierce Bui /  Hollow House Institute
+**Hollow House Institute — Relational Field OPS Dataset (v1.0)**  
+Authored by: Amy Pierce Bui  
+License: Hollow House Master License Suite  
+Repository: https://github.com/hollowhouseinstitute
 
----
+## Ethical Use
+This dataset must be used in alignment with:
+- trauma-informed principles  
+- AI relational safety  
+- sovereign data practices  
+- non-exploitative research standards  
 
-## 📎 Citation
-
-> Bui, A. P. (2025). *AI–Human Relations Dataset v1.1: A longitudinal corpus of emotional, somatic, and relational co-regulation*. Hollow House Institute. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
-
-
+See **/legal/LICENSE.md** for full restrictions and permissions.
