@@ -91,7 +91,7 @@ You’ll receive:
 
 Ethical AI researchers, educators, and labs may inquire for partnership access via:
 
-📧 hello@hollowhouse.institute
+📧 amyb1665@gmail.com
 🌐 www.hollowhouse.institute￼ (optional link)
 
 ⸻
@@ -100,3 +100,4 @@ Ethical AI researchers, educators, and labs may inquire for partnership access v
 
 🕯️ Hollow House Institute
 Amy Pierce Bui 
+
