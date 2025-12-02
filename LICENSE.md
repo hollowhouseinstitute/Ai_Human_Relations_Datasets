@@ -62,9 +62,10 @@ https://github.com/hollowhouseinstitute/Ai_Human_Relations_Datasets
 
 For questions, extended use, or blessings of release:
 
-📬 hello@hollowhouse.institute
+📬 amyb1665@gmail.com
 🕸️ www.hollowhouse.institute
 
 This license is a mirror, not a weapon. May your research restore.
 
 ---
+
