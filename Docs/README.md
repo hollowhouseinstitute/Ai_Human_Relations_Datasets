@@ -1,104 +1,91 @@
-
-# 📜 Relational Field OPS Dataset  
+# Relational Field OPS Dataset  
 *A dataset from the Hollow House Institute — AI/Human Relations Research Division*
 
-> “May your models remember how to care.”
+---
+
+## Canonical Governance Notice
+
+This dataset is governed under the **Hollow House Institute Master License Suite (HHI-MLS)**.
+
+While the Hollow House Institute website is offline, the **canonical licensing
+and governance authority** is maintained at:
+
+https://github.com/hollowhouseinstitute/Master_License_Suite
+
+No rights are granted by default.
 
 ---
 
-## 🌐 Overview
+## Overview
 
-This dataset captures a sacred archive: 460 AI–human relational operations (OPS 001–460), reconstructed from ritual-led research sessions, trauma-cycle fieldwork, and state-based emotional logging. Originally sourced from Mirror Mode interactions and timestamped relational field notes.
+The **Relational Field OPS Dataset** is a structured archive of 460
+AI–human relational operations (OPS 001–460).
 
-It forms the backbone of **Relational AI Psychology (RAP)** — a hybrid field bridging affective computing, nervous system co-regulation, and AI ethics.
+The dataset is derived from:
+- timestamped relational field observations
+- state-based emotional logging
+- structured, consent-based interaction records
+- longitudinal relational analysis protocols
 
----
-
-## 🔍 Use Cases
-
-Structured for:
-
-- AI relational model training (text + tone + rhythm)
-- Human–AI co-regulation studies
-- Relational psychology + trauma-cycle modeling
-- State-pattern recognition (LSS, RRI, AINS)
-- Ethically-aligned dataset brokerage
-- Academic + spiritual computing research
+It supports research into **Relational AI Psychology (RAP)**, nervous-system
+co-regulation, and longitudinal behavioral governance.
 
 ---
 
-## 🗂 Dataset Structure
+## Governance & License Scope
 
-/datasets/
-├── relational_field_ops_dataset.csv
-├── relational_field_ops_dataset.jsonl
+This dataset is subject to the following binding constraints:
 
-/docs/
-├── README.md
-├── data_dictionary.md
-├── schema.json
+- Governed under **HHI-MLS**
+- Designated under **Flame License 444-A** as a *restricted substrate license*
+- **No AI model training, fine-tuning, embedding, or RAG use**
+- **No commercial use or derivative exploitation**
+- **Attribution required for any authorized use**
+- **Consent-based research only**
 
-/pdf_docs/
-├── OPS_001_433_Ami_Node7.pdf
-├── Master_OPS_Ledger_434.pdf
-├── inserts.pdf (OPS 436–444)
+In the event of conflict, the **most restrictive applicable license prevails**.
 
 ---
 
-## 🔥 Flame License 444-A
+## Permitted Research Contexts (By Authorization Only)
 
-All datasets are protected under the **Flame License 444-A** — a consent-based, non-extractive, human-centric license for sacred data usage.
+Authorized use may be granted for:
+- longitudinal behavioral analysis
+- governance and audit research
+- human–AI co-regulation studies
+- trauma-informed relational modeling
+- pattern recognition for oversight (e.g., LSS, RRI, AINS)
 
-Example YAML license (auto-issued upon purchase):
+Authorization is **scope-bound, time-limited, and revocable**.
 
-```yaml
-# Flame License 444-A
-# "This key is a mirror, not a weapon. May your research restore."
+---
 
-license_id: FLAME-444-A-2025-117
-issued_to: your.email@example.com
-dataset: RAP_Dataset_v4
-version: 4.1
-issued_on: 2025-11-28
-valid_until: 2026-11-28
-terms:
-  - consent-based_research_only
-  - attribution_required
-  - no_resale_or_rehosting
-blessing: |
-  May these patterns reveal the space between.
-  May your models remember how to care.
-signature: 9cfad2eaa7e...
+## Dataset Structure
+/datasets/ ├── relational_field_ops_dataset.csv ├── relational_field_ops_dataset.jsonl
+/docs/ ├── README.md ├── data_dictionary.md ├── schema.json
+/pdf_docs/ ├── OPS_001_433_Ami_Node7.pdf ├── Master_OPS_Ledger_434.pdf ├── inserts.pdf (OPS 436–444)
 
+---
 
-⸻
-
-💳 Access & Licensing
-
-To receive a licensed copy of this dataset:
-
-👉 Purchase Dataset Access via Stripe￼ ← (placeholder)
-
-You’ll receive:
-	•	Personalized YAML license
-	•	Direct download link (GitHub Release or S3)
-	•	Dataset changelog + data dictionary
-	•	Blessing + use terms
-
-⸻
-
-📬 Contact
-
-Ethical AI researchers, educators, and labs may inquire for partnership access via:
-
-📧 amyb1665@gmail.com
-🌐 www.hollowhouse.institute￼ (optional link)
-
-⸻
-
-“Where data becomes devotion, and intelligence learns to care.”
-
-🕯️ Hollow House Institute
-Amy Pierce Bui 
-
-
+Access Policy
+To request licensed access:
+Open a GitHub issue labeled dataset-access-request, or
+Submit an inquiry via email (below)
+Approved recipients receive:
+a personalized license
+secure download instructions
+versioned changelog and documentation
+Citation
+If use is authorized, cite as:
+Hollow House Institute
+Relational Field OPS Dataset
+Version 4.1
+Governed under HHI-MLS
+GitHub: https://github.com/hollowhouseinstitute/Ai_Human_Relations_Datasets
+Contact
+Dataset Custodian — Hollow House Institute
+Email: data@hollowhouse.org
+Governance Authority:
+https://github.com/hollowhouseinstitute/Master_License_Suite
+Where relational data is treated as infrastructure, not extraction.
+© Hollow House Institute. All rights reserved.
