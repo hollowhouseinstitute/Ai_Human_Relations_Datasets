@@ -1,15 +1,18 @@
 # AI–Human Relations Datasets  
 **Hollow House Institute**  
-Structured Human Intelligence
+**Structured Human Intelligence**
+
+*Time turns behavior into infrastructure.*  
+*Behavior is the most honest data there is.*
 
 ---
 
-## Canonical Authority Notice
-
-This repository is governed under the **Hollow House Institute Master License Suite (HHI-MLS)**.
-
-While the Hollow House Institute website is offline, the **canonical public authority
-for licensing, governance, and enforcement** is maintained at:
+> **Canonical Authority**
+> This repository is governed under the Hollow House Institute Master License Suite (HHI-MLS).
+> It does not grant use, training, commercial, or derivative rights by default.
+>
+> Authoritative governance and licensing instruments:
+> https://github.com/hollowhouseinstitute/Master_License_Suite
 
 https://github.com/hollowhouseinstitute/Master_License_Suite
 
