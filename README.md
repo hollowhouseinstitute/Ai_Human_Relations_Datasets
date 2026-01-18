@@ -32,3 +32,13 @@ research in:
 
 All datasets are **non-open**, **non-commercial**, and **training-prohibited**
 unless explicitly authorized in writing.
+---
+
+## Governance Authority
+
+This repository operates under the canonical governance standard:
+
+**HHI-GOV-01 — Longitudinal Governance Infrastructure**  
+https://github.com/hollowhouseinstitute/HHI-GOV-01
+
+Governance authority is singular. No local policy supersedes HHI-GOV-01.
