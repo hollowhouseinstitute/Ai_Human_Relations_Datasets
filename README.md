@@ -68,3 +68,9 @@ This repository operates under the canonical governance standard:
 https://github.com/hollowhouseinstitute/HHI-GOV-01
 
 Governance authority is singular. No local policy supersedes HHI-GOV-01.
+
+## Governance
+
+This repository inherits governance authority from the **HHI Governance Export — Core**.
+
+All execution, datasets, research, and audits are bound to its standards and constraints.
