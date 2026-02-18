@@ -1,3 +1,29 @@
+## Governance Alignment
+
+This repository operates under the Hollow House Institute governance framework.
+All terminology is bound to the HHI Governance Glossary.
+
+### Standards Referenced
+- HHI Governance Glossary
+- HHI_SPEC_002 — Terminology Governance
+- HHI_SPEC_003 — Repository Governance
+- HHI_GOV_01 — Execution Governance
+- CCS-444A — Continuity Compliance Standard
+- RCS-444A — Research Continuity Standard
+- HHI-MLS — Master License Suite
+
+## Governance Diagram
+
+```mermaid
+flowchart TD
+  A[Hollow House Institute Doctrine] --> B[Hollow House Standards Library]
+  B --> C[HHI_GOV_01 - Execution Governance]
+  B --> D[HHI_LUL_01 - Language Licensing]
+  D --> E[Master License Suite - Legal Enforcement]
+  C --> F[Datasets & Systems]
+  C --> G[Audits & Oversight]
+  C --> H[Academy & Public Site]
+
 # AI–Human Relations Datasets  
 **Hollow House Institute**  
 **Structured Human Intelligence**
